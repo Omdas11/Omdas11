@@ -1,47 +1,42 @@
-<div align="center">
-
 # Hi, I'm Om Das 👋
 
-**Physics Undergrad · Open Source Builder · Aspiring Educator**
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+ExamArchive+%F0%9F%93%9A;Physics+%2B+Web+%2B+Open+Access;Learning+in+public%2C+one+commit+at+a+time)
-
-](https://git.io/typing-svg)
-
-[
-
-![GitHub followers](https://img.shields.io/github/followers/Omdas11?label=Followers&style=social)
-
-](https://github.com/Omdas11)
-[
-
-![Profile Views](https://komarev.com/ghpvc/?username=Omdas11&color=blue&style=flat)
-
-](https://github.com/Omdas11)
-
-</div>
+**Physics Undergrad · Open Source Builder · Aspiring Educator · India 🇮🇳**
 
 ---
 
 ## 🔭 What I'm Building
 
 ### 📚 [ExamArchive](https://examarchive.dev)
-> A free, open-access repository of past exam papers and syllabi for students of Haflong Government College (Assam University).
+A free, open-access repository of past exam papers and syllabi for students of Haflong Government College, Assam University.
 
-- Built with **Next.js** · **Appwrite** · **AI-assisted workflows**
+- Built with **Next.js** · **Appwrite** · AI-assisted workflows
 - Solving a real problem: past papers were scattered, inaccessible, or lost
-- Open to contributions from students & devs alike
+- Open to contributions from students & developers
 
 ---
 
 ## 🧠 Currently Working On
 
-- 🔬 Finishing my **B.Sc. Physics (FYUG, NEP 2020)** at Haflong Govt. College
+- 🎓 Finishing **B.Sc. Physics (FYUG, NEP 2020)** at Haflong Govt. College
 - ⚙️ **ExamArchive v3** — TypeScript rewrite with better performance & UX
-- 🤖 Academic **automation tools** — AI-assisted question paper generation & pattern analysis
-- 🌱 Going deeper into **full-stack web development**
+- 🤖 Academic automation tools — AI-assisted question paper generation
+- 🌱 Learning **HTML · CSS · JS · Python** (from mobile, consistently!)
+
+---
+
+## 📖 Learning Journey
+
+| Platform | Focus | Profile |
+|---|---|---|
+| 🟠 freeCodeCamp | HTML, CSS, JS, Python | [View Profile](https://www.freecodecamp.org/Omdas11) |
+| 🔵 Kaggle | Python, Data | [View Profile](https://www.kaggle.com/Omdas11) |
+| 🟣 Scrimba | Frontend / JS | [View Profile](https://scrimba.com) |
+| 🔷 Microsoft Learn | Cloud & Dev | [View Profile](https://learn.microsoft.com) |
+| 🟡 Google Skills | Tech Fundamentals | [View Profile](https://skillshop.credential.net) |
+
+> Certificates are added here as they're earned ⬇️
+
+<!-- Add earned cert badges below as img links when you get them -->
 
 ---
 
@@ -74,7 +69,7 @@
 
 
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
@@ -83,16 +78,9 @@
 
 
 
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 
 
@@ -112,25 +100,13 @@
 
 
 
-</div>
-
 ---
 
-## 🎯 Goals & Interests
+## 🎯 Goals
 
-- 📡 **Open academic access** — making study resources free for everyone
-- 🏫 **Teaching & academia** — aspiring to educate and contribute to research
-- 🤝 **Collaboration** — always open to working on meaningful projects
-- ⚛️ **Physics** — where curiosity meets the universe
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively looking to collaborate on:
-- 🧰 Open-source tools for students & educators
-- 🌐 Web platforms with real social impact
-- 🤖 AI/automation workflows for academic use
+- 📡 Open academic access — free resources for every student
+- 🏫 Teaching & academia — aspiring educator in Physics
+- 🤝 Collaboration — always open to meaningful projects
 
 ---
 
@@ -149,8 +125,4 @@ I'm actively looking to collaborate on:
 
 ---
 
-<div align="center">
-
-*"Study hard, build things, share freely."* 🇮🇳
-
-</div>
+*"Study hard, build things, share freely."*
